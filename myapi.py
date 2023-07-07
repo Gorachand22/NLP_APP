@@ -4,7 +4,7 @@ import paralleldots
  
 class API:
     def __init__(self):
-        paralleldots.set_api_key('4nPa7DrUtAf6gVIpgGnPVZz1HoLoaJxLyherBwwiM04')
+        paralleldots.set_api_key('API') # Enter your API key
         
         
     def sentiment_analysis(self, text):    
